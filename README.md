@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 ```npm install react```
+
+Sistema De Registro 2, Pureba git
